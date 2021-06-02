@@ -1,0 +1,2 @@
+D:\Faculta\Year_3\SEM2\IP\LAB\PROJECT\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.exe
+D:\Faculta\Year_3\SEM2\IP\LAB\PROJECT\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.pdb

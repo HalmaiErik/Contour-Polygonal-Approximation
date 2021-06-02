@@ -1,0 +1,10 @@
+﻿  OpenCVApplication.cpp
+D:\Faculta\Year_3\SEM2\IP\LAB\PROJECT\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(9,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Faculta\Year_3\SEM2\IP\LAB\PROJECT\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(13,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faculta\Year_3\SEM2\IP\LAB\PROJECT\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(14,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faculta\Year_3\SEM2\IP\LAB\PROJECT\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(184,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OpenCVApplication.vcxproj -> D:\Faculta\Year_3\SEM2\IP\LAB\PROJECT\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg451_64d.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf451_64d.dll
+  OpenCV\dll\Debug\opencv_world451d.dll
+          3 file(s) copied.
